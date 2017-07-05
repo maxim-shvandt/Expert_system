@@ -26,6 +26,8 @@
 
 Тесты
  
+Тесты
+ 
 #1
 1:plane
 2:flying object
@@ -230,3 +232,4 @@ Yes
 USS Enterprise weights some weight
 ===============================
 ========== Enter the query by example: < ? : ? : ? > =============
+
